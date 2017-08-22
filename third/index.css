@@ -1,0 +1,66 @@
+
+
+
+body {
+    margin: 0;
+}
+
+
+
+
+h1 {
+    color:red;
+}
+
+.one {
+    background-color:#D8D8D8;
+    width: 100vw;
+    height: 16vh;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+
+.two {
+    background-color:white;
+    width: 100vw;
+    height: 35vh;
+}
+
+.three {
+    background-color:#4A90E2;
+    width: 100vw;
+    height: 16vh;
+}
+
+.four {
+    background-color:#50E3C2;
+    width: 100vw;
+    height: 16vh;
+}
+
+.five {
+    background-color:#B8E986;
+    width: 100vw;
+    height: 16vh;
+}
+
+.six {
+    background-color:#F8E71C;
+    width: 100vw;
+    height: 16vh;
+}
+
+.littlesquare {
+    width: 85px;
+    height: 85px;
+    background-color: #4A90E2;
+   
+}
+p {
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-left: 50px;
+    font-size: 30px;
+    
+}

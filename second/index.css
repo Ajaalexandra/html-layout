@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box {
+    height: 100vh;
+    width: 33.3vw;
+    float: left;
+}
+
+.left-box {
+    background-color: #4A90E2;
+   
+}
+
+.middle-box{
+    background-color:#50E3C2;
+    
+}
+
+.right-box{
+    background-color:#B8E986;
+
+}
+
+.placeholder {
+    background: #FF0000;
+    height: 213px;
+    margin-top: 632px;
+    width: 
+}
+
+p {
+    padding-top: 90px;
+    padding-left: 68px;
+    color: white;
+    font-size: 35px;
+}
