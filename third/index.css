@@ -15,7 +15,7 @@ h1 {
 .one {
     background-color:#D8D8D8;
     width: 100vw;
-    height: 16vh;
+    height: 14vh;
     box-sizing: border-box;
     padding: 20px;
 }
@@ -24,31 +24,31 @@ h1 {
 .two {
     background-color:white;
     width: 100vw;
-    height: 35vh;
+    height: 30vh;
 }
 
 .three {
     background-color:#4A90E2;
     width: 100vw;
-    height: 16vh;
+    height: 14vh;
 }
 
 .four {
     background-color:#50E3C2;
     width: 100vw;
-    height: 16vh;
+    height: 14vh;
 }
 
 .five {
     background-color:#B8E986;
     width: 100vw;
-    height: 16vh;
+    height: 14vh;
 }
 
 .six {
     background-color:#F8E71C;
     width: 100vw;
-    height: 16vh;
+    height: 14vh;
 }
 
 .littlesquare {
